@@ -4,8 +4,6 @@ Jane here, thank you for taking the time to view my profile.  I am a data scient
 
 I am currently studying data science with the Bloom Institute of Technology, and am learning about (regression and classification) model tuning, and the ins and outs of coding in Python.  
 
-A fun fact about me is that I am an avid cyclist, climber (bouldering), and artist.
-
 <!--test
 **janemsnyder/janemsnyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
