@@ -1,6 +1,6 @@
 ### Hello!  
 
-Jane here, thank you for taking the time to view my profile.  I am a data scientist and am passionate about working with complex datasets and problems.  My goal is to simplify what's complex so as to make the topic easy to understand, and straightforward to respond to.
+Jane here, thank you for taking the time to view my profile.  I am a data scientist and am passionate about working with complex datasets and on dissecting gnarly problems.  My goal is to simplify what's complex so as to make the topic easy to understand, and straightforward to respond to.
 
 I am currently studying data science with the Bloom Institute of Technology, and am learning about (regression and classification) model tuning, and the ins and outs of coding in Python.  
 
