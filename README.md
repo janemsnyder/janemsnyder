@@ -1,8 +1,8 @@
 ### Hello!  
 
-Jane here, thank you for taking the time to view my profile.  I am a data scientist and am passionate about working with complex datasets and I love dissecting gnarly problems.  My goal is to simplify what's complex so as to make the topic easy to understand, and straightforward to respond to.
+Jane here, thank you for taking the time to view my profile.  I am a data scientist and am passionate about working with complex datasets and I love to dissect gnarly problems.  My goal is to simplify what's complex so as to make the topic easy to understand, and straightforward to respond to.
 
-I am currently studying data science with the Bloom Institute of Technology, and am learning about (regression and classification) model tuning, and the ins and outs of coding in Python.  
+I am currently studying with the Bloom Institute of Technology, and am learning about (regression and classification) model tuning as well as the ins and outs of coding in Python.  
 
 <!--test
 **janemsnyder/janemsnyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
